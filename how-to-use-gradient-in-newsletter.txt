@@ -1,0 +1,34 @@
+<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff" style="margin:0; padding:0; width:100%">
+    <!-- GRADIENT SECTION -->
+    <tr>
+      <td width="100%" bgcolor="#164c92" style="background:linear-gradient(45deg, #8e36e0 0%, #164b92 100%); padding:0;margin:0">
+      <center>
+      <!--[if gte mso 1]>
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000" fillcolor="#8e36e0">
+      <v:fill type="gradient" color2="#164c92"/>
+      <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+      <center>
+      <![endif]-->
+        
+        <table cellspacing="0" cellpadding="0" border="0" width="650" style="margin:0; padding:0; width:650px" align="center" class="mobile-full-table">
+          <tr>
+            <td>
+              <!-- MAIN CTA Goes here -->
+            </td>
+          </tr>
+        </table>
+        
+      <!--[if gte mso 9]>
+      </center>
+      </v:textbox>
+      </v:rect>
+      <![endif]-->
+      </center>
+      </td>
+    </tr>
+    <!-- GRADIENT SECTION - ENDS-->
+    <tr>
+      <td>
+        <!-- OTHER EMAIL CONTENT -->
+      </td>
+    </tr>
